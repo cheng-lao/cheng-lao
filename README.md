@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋
+### - A motivated CS Undergraduate! 🏅
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheng-lao&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cheng-lao/cheng-lao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
